@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+catboost
+xgboost
+imbalanced-learn
