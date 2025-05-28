@@ -1,4 +1,14 @@
 # SBI-Fraud-Detection
+# Brief Description
+The problem statement (PS) centres on developing robust, interpretable machine learning and data analysis solutions using a complex, noisy dataset that merges anonymised financial transactions and mobile tower connection logs. The challenge has two main tasks:
+
+- **Fraud Detection:** Participants must analyze device usage patterns, profile information, and transactional data to identify fraudulent accounts or transactions. The key challenges include handling adversarial behavior (where fraudsters try to mimic normal activity), addressing significant class imbalance (very few fraud cases), and ensuring that the model’s predictions are explainable.
+
+- **Defaulter Localization:** The goal is to use mobile tower connection logs to estimate the last known location of labeled defaulters. Despite the data being noisy, incomplete, and anonymized, solutions should provide traceable and interpretable predictions about the most recent digital footprint of defaulters, maintaining temporal consistency and clear inference logic.
+
+Overall, the PS requires handling messy, real-world data with missing values and anomalies, demonstrating the ability to extract actionable insights under practical constraints, and delivering solutions that are both resilient to noise and adversarial tactics, and interpretable for real-world application.
+
+---
 
 # Project Setup
 
@@ -39,3 +49,13 @@ pip install -r requirements.txt
 When you are done working, deactivate with:
 
 deactivate
+
+---
+
+# Frameworks
+- TensorFlow
+- Python
+- Keras
+- Pandas
+- NumPy
+- matplotlib
