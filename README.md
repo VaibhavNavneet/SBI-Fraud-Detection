@@ -6,7 +6,7 @@ The problem statement (PS) centres on developing robust, interpretable machine l
 
 - **Defaulter Localization:** The goal is to use mobile tower connection logs to estimate the last known location of labeled defaulters. Despite the data being noisy, incomplete, and anonymized, solutions should provide traceable and interpretable predictions about the most recent digital footprint of defaulters, maintaining temporal consistency and clear inference logic.
 
-Overall, the PS requires handling messy, real-world data with missing values and anomalies, demonstrating the ability to extract actionable insights under practical constraints, and delivering solutions that are both resilient to noise and adversarial tactics, and interpretable for real-world application.
+Overall, the problem statement requires handling messy, real-world data with missing values and anomalies, demonstrating the ability to extract actionable insights under practical constraints, and delivering solutions that are both resilient to noise and adversarial tactics, and interpretable for real-world application.
 
 ---
 
@@ -52,7 +52,7 @@ deactivate
 
 ---
 
-# Frameworks
+# Frameworks Used
 - TensorFlow
 - Python
 - Keras
