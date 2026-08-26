@@ -1,0 +1,7 @@
+/.venv
+/deep_learning_model.ipynb
+/EDA.ipynb
+/HACKATHON_PREDICTION_DATA.CSV
+/HACKATHON_TRAINING_DATA.CSV
+/ml_model.ipynb
+/__pycache__

@@ -7,3 +7,7 @@ seaborn
 catboost
 xgboost
 imbalanced-learn
+torch
+shap
+joblib
+tqdm
