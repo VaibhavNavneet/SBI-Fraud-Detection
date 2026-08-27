@@ -296,7 +296,7 @@ python train_pipeline.py `
   --n-jobs -1
 ```
 
-Use a specific validation period:
+Use specific validation period:
 
 ```powershell
 python train_pipeline.py `
